@@ -60,12 +60,6 @@ Features include:
 
 ---
 
-## Dashboard
-
-![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
-
----
-
 ## Key Insights
 
 ### 1. Workforce Overview
@@ -163,19 +157,6 @@ This dashboard can help:
 
 ---
 
-## Project Files
-
-- `HR_Analytics.pbix` – Power BI dashboard
-- `HR_Analytics.csv` – HR employee dataset
-- `HR_Analytics_Project_Report.pdf` – Project report
-- `HR_Analytics_Dashboard.png` – Dashboard preview
-
----
-
 ## Author
 
 **Shree Gulumbe**
-
-BTech Electronics & Telecommunication Engineering
-
-Interested in Data Analytics, Business Intelligence, SQL, Python, Power BI, and Excel.
